@@ -1,17 +1,17 @@
 {
-  "fg" = "#8C918C";
-  "bg" = "#1F2624";
+  "fg" = "#8A928B";
+  "bg" = "#212723";
   "hl" = "#c3cdc0";
-  "fg+" = "#8C918C";
-  "bg+" = "#3F322C";
+  "fg+" = "#8A928B";
+  "bg+" = "#241d21";
   "hl+" = "#c3cdc0";
   "border" = "#4E504C";
-  "header" = "#67825B";
-  "gutter" = "#1D2320";
-  "spinner" = "#B4A05A";
-  "info" = "#75617D";
+  "header" = "#959C70";
+  "gutter" = "#1C211E";
+  "spinner" = "#A69966";
+  "info" = "#8A8493";
   "separator" = "#4E504C";
-  "pointer" = "#9D868C";
-  "marker" = "#3F322C";
-  "prompt" = "#8C918C";
+  "pointer" = "#876f7f";
+  "marker" = "#241d21";
+  "prompt" = "#8A928B";
 }

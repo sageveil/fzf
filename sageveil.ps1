@@ -1,7 +1,7 @@
 $ENV:FZF_DEFAULT_OPTS = @"
-	--color=fg:#8C918C,bg:#1F2624,hl:#c3cdc0
-	--color=fg+:#8C918C,bg+:#3F322C,hl+:#c3cdc0
-	--color=border:#4E504C,header:#67825B,gutter:#1D2320
-	--color=spinner:#B4A05A,info:#75617D,separator:#4E504C
-	--color=pointer:#9D868C,marker:#3F322C,prompt:#8C918C
+	--color=fg:#8A928B,bg:#212723,hl:#c3cdc0
+	--color=fg+:#8A928B,bg+:#241d21,hl+:#c3cdc0
+	--color=border:#4E504C,header:#959C70,gutter:#1C211E
+	--color=spinner:#A69966,info:#8A8493,separator:#4E504C
+	--color=pointer:#876f7f,marker:#241d21,prompt:#8A928B
 "@
